@@ -7,7 +7,7 @@ changes the working directory to the user’s home directory.
 File 3-listfiles
  Display current directory contents in a long format
 File 4-listmorefiles
-Displays current directory contents, including hidden files (starting with.). Use the long format.
+Displays current directory contents, including hidden files (starting with.). Use the long format  .
 File 5-listfilesdigitonly
 Displays current directory contents in long format, with user and group IDs displayed numerically and hidden files.
 File 6-firstdirectory
