@@ -1,1 +1,1 @@
-<h1>Configuration Management</h1>
+<h1>Configuration Management.</h1>
